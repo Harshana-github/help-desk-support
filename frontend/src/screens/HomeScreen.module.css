@@ -1,0 +1,16 @@
+.container {
+    margin: 1px 100px 1px 100px;
+}
+.header {
+  background-color:rgb(94, 94, 94);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.h1 {
+  text-align: center;
+  color: wheat;
+}

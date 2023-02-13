@@ -1,0 +1,21 @@
+.header {
+    color: white;
+    background-color: rgb(74, 92, 109);
+    padding: 0px 100px 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .a {
+    color: #ffffff;
+    text-decoration: none;
+  }
